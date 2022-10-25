@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notification with input data</string>
+    <string name="details">Заказ № 123DBY-14</string>
+    <string name="price">5000</string>
+    <string name="button">Button</string>
+    <string name="new_buy">новый заказ</string>
+</resources>
